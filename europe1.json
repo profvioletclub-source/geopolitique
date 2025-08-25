@@ -7,6 +7,7 @@
     "currency": "Euro (€)",
     "idh": 0.922,
     "organizations": ["ONU", "UE", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Portugal",
@@ -16,6 +17,7 @@
     "currency": "Euro (€)",
     "idh": 0.864,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Grèce",
@@ -25,6 +27,7 @@
     "currency": "Euro (€)",
     "idh": 0.888,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Irlande",
@@ -34,6 +37,7 @@
     "currency": "Euro (€)",
     "idh": 0.945,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Danmark",
@@ -43,6 +47,7 @@
     "currency": "Couronne danoise (DKK)",
     "idh": 0.940,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Finlande",
@@ -52,6 +57,7 @@
     "currency": "Euro (€)",
     "idh": 0.940,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Tchéquie",
@@ -61,6 +67,7 @@
     "currency": "Couronne tchèque (CZK)",
     "idh": 0.900,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Hongrie",
@@ -70,6 +77,7 @@
     "currency": "Forint hongrois (HUF)",
     "idh": 0.850,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Slovaquie",
@@ -79,6 +87,7 @@
     "currency": "Euro (€)",
     "idh": 0.860,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Slovénie",
@@ -88,5 +97,6 @@
     "currency": "Euro (€)",
     "idh": 0.910,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   }
 ]
