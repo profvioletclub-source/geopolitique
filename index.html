@@ -2,37 +2,21 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Données géopolitiques</title>
-  <style>
-    body { font-family: sans-serif; padding: 2em; }
-    .pays { margin-bottom: 2em; }
-  </style>
+  <title>Géopolitique européenne</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>Données géopolitiques des pays européens</h1>
 
-  <div class="pays">
-    <h2>🇫🇷 France</h2>
-    <ul>
-      <li>Capitale : Paris</li>
-      <li>Population : 67,8 millions</li>
-      <li>Monnaie : Euro (€)</li>
-      <li>IDH : 0.903</li>
-      <li>Organisations : ONU, UE, OTAN, UNESCO</li>
-    </ul>
+  <input type="text" id="search" placeholder="Rechercher un pays...">
+  <div id="filters">
+    <label><input type="checkbox" value="UE"> UE</label>
+    <label><input type="checkbox" value="OTAN"> OTAN</label>
+    <label><input type="checkbox" value="ONU"> ONU</label>
   </div>
 
-  <div class="pays">
-    <h2>🇩🇪 Allemagne</h2>
-    <ul>
-      <li>Capitale : Berlin</li>
-      <li>Population : 83,2 millions</li>
-      <li>Monnaie : Euro (€)</li>
-      <li>IDH : 0.942</li>
-      <li>Organisations : ONU, UE, OTAN, UNESCO</li>
-    </ul>
-  </div>
+  <div id="countries"></div>
 
-  <!-- Tu peux ajouter d'autres pays ici -->
+  <script src="script.js"></script>
 </body>
 </html>
