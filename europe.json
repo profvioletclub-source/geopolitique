@@ -40,7 +40,7 @@
     "flag": "https://flagcdn.com/se.svg",
     "capital": "Stockholm",
     "population": 10500000,
-    "currency": "Swedish krona (SEK)",
+    "currency": "Couronne Suèdoise (SEK)",
     "idh": 0.945,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
@@ -49,7 +49,7 @@
     "flag": "https://flagcdn.com/no.svg",
     "capital": "Oslo",
     "population": 5400000,
-    "currency": "Norwegian krone (NOK)",
+    "currency": "Couronne Norvégienne (NOK)",
     "idh": 0.961,
     "organizations": ["ONU", "OTAN", "UNESCO"]
   },
@@ -58,7 +58,7 @@
     "flag": "https://flagcdn.com/ch.svg",
     "capital": "Berne",
     "population": 8800000,
-    "currency": "Swiss franc (CHF)",
+    "currency": "Franc Suisse (CHF)",
     "idh": 0.955,
     "organizations": ["ONU", "UNESCO"]
   },
@@ -67,7 +67,7 @@
     "flag": "https://flagcdn.com/pl.svg",
     "capital": "Varsovie",
     "population": 38000000,
-    "currency": "Polish złoty (PLN)",
+    "currency": "Złoty Polonais (PLN)",
     "idh": 0.880,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
