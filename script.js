@@ -1,4 +1,4 @@
-fetch('europe.json')
+fetch('europe0.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById('countries');
