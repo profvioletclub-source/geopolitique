@@ -6,7 +6,7 @@
     "population": 9000000,
     "currency": "Euro (€)",
     "idh": 0.922,
-    "organizations": ["ONU", "UE", "UNESCO"]
+    "organizations": ["ONU", "UE", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -16,7 +16,7 @@
     "population": 10300000,
     "currency": "Euro (€)",
     "idh": 0.864,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -26,7 +26,7 @@
     "population": 10700000,
     "currency": "Euro (€)",
     "idh": 0.888,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -36,7 +36,7 @@
     "population": 5100000,
     "currency": "Euro (€)",
     "idh": 0.945,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -46,7 +46,7 @@
     "population": 5900000,
     "currency": "Couronne danoise (DKK)",
     "idh": 0.940,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -56,7 +56,7 @@
     "population": 5500000,
     "currency": "Euro (€)",
     "idh": 0.940,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -66,7 +66,7 @@
     "population": 10700000,
     "currency": "Couronne tchèque (CZK)",
     "idh": 0.900,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -76,7 +76,7 @@
     "population": 9700000,
     "currency": "Forint hongrois (HUF)",
     "idh": 0.850,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -86,7 +86,7 @@
     "population": 5400000,
     "currency": "Euro (€)",
     "idh": 0.860,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -96,7 +96,7 @@
     "population": 2100000,
     "currency": "Euro (€)",
     "idh": 0.910,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   }
 ]
