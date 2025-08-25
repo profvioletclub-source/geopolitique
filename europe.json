@@ -27,6 +27,7 @@
     "currency": "Euro (€)",
     "idh": 0.895,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "Sergio Mattarella, Président"
   },
   {
     "name": "Espagne",
@@ -36,6 +37,7 @@
     "currency": "Euro (€)",
     "idh": 0.905,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "Philippe VI, Roi"
   },
   {
     "name": "Suède",
@@ -45,6 +47,7 @@
     "currency": "Couronne Suèdoise (SEK)",
     "idh": 0.945,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Norvège",
@@ -54,6 +57,7 @@
     "currency": "Couronne Norvégienne (NOK)",
     "idh": 0.961,
     "organizations": ["ONU", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Suisse",
@@ -63,6 +67,7 @@
     "currency": "Franc Suisse (CHF)",
     "idh": 0.955,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Pologne",
@@ -72,6 +77,7 @@
     "currency": "Złoty Polonais (PLN)",
     "idh": 0.880,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Pays-Bas",
@@ -81,6 +87,7 @@
     "currency": "Euro (€)",
     "idh": 0.944,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Belgique",
@@ -90,5 +97,6 @@
     "currency": "Euro (€)",
     "idh": 0.937,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   }
 ]
