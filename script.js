@@ -31,7 +31,7 @@ Promise.all([
         const div = document.createElement('div');
         div.className = 'pays';
         div.innerHTML = `
-          <h2>🇺🇳 ${country.name}</h2>
+          <h2> ${country.name}</h2>
           <img src="${country.flag}" width="50"><br>
           <ul>
             <li><strong>Capitale :</strong> ${country.capital}</li>
