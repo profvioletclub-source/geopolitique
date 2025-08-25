@@ -1,15 +1,15 @@
 [
   {
-    "name": "Iceland",
+    "name": "Islande",
     "flag": "https://flagcdn.com/is.svg",
     "capital": "Reykjavik",
     "population": 370000,
-    "currency": "Icelandic króna (ISK)",
+    "currency": "Couronne Islandaise (ISK)",
     "idh": 0.959,
     "organizations": ["ONU", "OTAN", "UNESCO"]
   },
   {
-    "name": "Estonia",
+    "name": "Estonie",
     "flag": "https://flagcdn.com/ee.svg",
     "capital": "Tallinn",
     "population": 1320000,
@@ -18,7 +18,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Latvia",
+    "name": "Lettonie",
     "flag": "https://flagcdn.com/lv.svg",
     "capital": "Riga",
     "population": 1900000,
@@ -27,7 +27,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Lithuania",
+    "name": "Lithuanie",
     "flag": "https://flagcdn.com/lt.svg",
     "capital": "Vilnius",
     "population": 2800000,
@@ -36,7 +36,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Croatia",
+    "name": "Croatie",
     "flag": "https://flagcdn.com/hr.svg",
     "capital": "Zagreb",
     "population": 3900000,
@@ -45,20 +45,20 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Bosnia and Herzegovina",
+    "name": "Bosnie-Herzégovine",
     "flag": "https://flagcdn.com/ba.svg",
     "capital": "Sarajevo",
     "population": 3300000,
-    "currency": "Convertible mark (BAM)",
+    "currency": "Mark Convertible (BAM)",
     "idh": 0.780,
     "organizations": ["ONU", "UNESCO"]
   },
   {
-    "name": "Serbia",
+    "name": "Serbie",
     "flag": "https://flagcdn.com/rs.svg",
     "capital": "Belgrade",
     "population": 6700000,
-    "currency": "Serbian dinar (RSD)",
+    "currency": "Dinar Serbe (RSD)",
     "idh": 0.802,
     "organizations": ["ONU", "UNESCO"]
   },
@@ -72,20 +72,20 @@
     "organizations": ["ONU", "UNESCO"]
   },
   {
-    "name": "Albania",
+    "name": "Albanie",
     "flag": "https://flagcdn.com/al.svg",
     "capital": "Tirana",
     "population": 2800000,
-    "currency": "Albanian lek (ALL)",
+    "currency": "Lek Albanais (ALL)",
     "idh": 0.796,
     "organizations": ["ONU", "OTAN", "UNESCO"]
   },
   {
-    "name": "North Macedonia",
+    "name": "Macédoine du Nord",
     "flag": "https://flagcdn.com/mk.svg",
     "capital": "Skopje",
     "population": 1900000,
-    "currency": "Macedonian denar (MKD)",
+    "currency": "Dinar Macédonien (MKD)",
     "idh": 0.774,
     "organizations": ["ONU", "OTAN", "UNESCO"]
   }
