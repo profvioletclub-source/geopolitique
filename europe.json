@@ -9,7 +9,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Allemagne",
+    "name": "Germany",
     "flag": "https://flagcdn.com/de.svg",
     "capital": "Berlin",
     "population": 83200000,
@@ -18,12 +18,391 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Suisse",
+    "name": "Italy",
+    "flag": "https://flagcdn.com/it.svg",
+    "capital": "Rome",
+    "population": 59000000,
+    "currency": "Euro (€)",
+    "idh": 0.895,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Spain",
+    "flag": "https://flagcdn.com/es.svg",
+    "capital": "Madrid",
+    "population": 47400000,
+    "currency": "Euro (€)",
+    "idh": 0.905,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Sweden",
+    "flag": "https://flagcdn.com/se.svg",
+    "capital": "Stockholm",
+    "population": 10500000,
+    "currency": "Swedish krona (SEK)",
+    "idh": 0.945,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Norway",
+    "flag": "https://flagcdn.com/no.svg",
+    "capital": "Oslo",
+    "population": 5400000,
+    "currency": "Norwegian krone (NOK)",
+    "idh": 0.961,
+    "organizations": ["ONU", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Switzerland",
     "flag": "https://flagcdn.com/ch.svg",
-    "capital": "Berne",
+    "capital": "Bern",
     "population": 8800000,
-    "currency": "Franc suisse (CHF)",
+    "currency": "Swiss franc (CHF)",
     "idh": 0.955,
     "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Poland",
+    "flag": "https://flagcdn.com/pl.svg",
+    "capital": "Warsaw",
+    "population": 38000000,
+    "currency": "Polish złoty (PLN)",
+    "idh": 0.880,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Netherlands",
+    "flag": "https://flagcdn.com/nl.svg",
+    "capital": "Amsterdam",
+    "population": 17500000,
+    "currency": "Euro (€)",
+    "idh": 0.944,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Belgium",
+    "flag": "https://flagcdn.com/be.svg",
+    "capital": "Brussels",
+    "population": 11600000,
+    "currency": "Euro (€)",
+    "idh": 0.937,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Austria",
+    "flag": "https://flagcdn.com/at.svg",
+    "capital": "Vienna",
+    "population": 9000000,
+    "currency": "Euro (€)",
+    "idh": 0.922,
+    "organizations": ["ONU", "UE", "UNESCO"]
+  },
+  {
+    "name": "Portugal",
+    "flag": "https://flagcdn.com/pt.svg",
+    "capital": "Lisbon",
+    "population": 10300000,
+    "currency": "Euro (€)",
+    "idh": 0.864,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Greece",
+    "flag": "https://flagcdn.com/gr.svg",
+    "capital": "Athens",
+    "population": 10700000,
+    "currency": "Euro (€)",
+    "idh": 0.888,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Ireland",
+    "flag": "https://flagcdn.com/ie.svg",
+    "capital": "Dublin",
+    "population": 5100000,
+    "currency": "Euro (€)",
+    "idh": 0.945,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Denmark",
+    "flag": "https://flagcdn.com/dk.svg",
+    "capital": "Copenhagen",
+    "population": 5900000,
+    "currency": "Danish krone (DKK)",
+    "idh": 0.940,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Finland",
+    "flag": "https://flagcdn.com/fi.svg",
+    "capital": "Helsinki",
+    "population": 5500000,
+    "currency": "Euro (€)",
+    "idh": 0.940,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Czech Republic",
+    "flag": "https://flagcdn.com/cz.svg",
+    "capital": "Prague",
+    "population": 10700000,
+    "currency": "Czech koruna (CZK)",
+    "idh": 0.900,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Hungary",
+    "flag": "https://flagcdn.com/hu.svg",
+    "capital": "Budapest",
+    "population": 9700000,
+    "currency": "Hungarian forint (HUF)",
+    "idh": 0.850,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Slovakia",
+    "flag": "https://flagcdn.com/sk.svg",
+    "capital": "Bratislava",
+    "population": 5400000,
+    "currency": "Euro (€)",
+    "idh": 0.860,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Slovenia",
+    "flag": "https://flagcdn.com/si.svg",
+    "capital": "Ljubljana",
+    "population": 2100000,
+    "currency": "Euro (€)",
+    "idh": 0.910,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  }
+]
+  {
+    "name": "Iceland",
+    "flag": "https://flagcdn.com/is.svg",
+    "capital": "Reykjavik",
+    "population": 370000,
+    "currency": "Icelandic króna (ISK)",
+    "idh": 0.959,
+    "organizations": ["ONU", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Estonia",
+    "flag": "https://flagcdn.com/ee.svg",
+    "capital": "Tallinn",
+    "population": 1320000,
+    "currency": "Euro (€)",
+    "idh": 0.912,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Latvia",
+    "flag": "https://flagcdn.com/lv.svg",
+    "capital": "Riga",
+    "population": 1900000,
+    "currency": "Euro (€)",
+    "idh": 0.866,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Lithuania",
+    "flag": "https://flagcdn.com/lt.svg",
+    "capital": "Vilnius",
+    "population": 2800000,
+    "currency": "Euro (€)",
+    "idh": 0.882,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Croatia",
+    "flag": "https://flagcdn.com/hr.svg",
+    "capital": "Zagreb",
+    "population": 3900000,
+    "currency": "Euro (€)",
+    "idh": 0.858,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "flag": "https://flagcdn.com/ba.svg",
+    "capital": "Sarajevo",
+    "population": 3300000,
+    "currency": "Convertible mark (BAM)",
+    "idh": 0.780,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Serbia",
+    "flag": "https://flagcdn.com/rs.svg",
+    "capital": "Belgrade",
+    "population": 6700000,
+    "currency": "Serbian dinar (RSD)",
+    "idh": 0.802,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Montenegro",
+    "flag": "https://flagcdn.com/me.svg",
+    "capital": "Podgorica",
+    "population": 620000,
+    "currency": "Euro (€)",
+    "idh": 0.832,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Albania",
+    "flag": "https://flagcdn.com/al.svg",
+    "capital": "Tirana",
+    "population": 2800000,
+    "currency": "Albanian lek (ALL)",
+    "idh": 0.796,
+    "organizations": ["ONU", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "North Macedonia",
+    "flag": "https://flagcdn.com/mk.svg",
+    "capital": "Skopje",
+    "population": 1900000,
+    "currency": "Macedonian denar (MKD)",
+    "idh": 0.774,
+    "organizations": ["ONU", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Kosovo",
+    "flag": "https://flagcdn.com/xk.svg",
+    "capital": "Pristina",
+    "population": 1800000,
+    "currency": "Euro (€)",
+    "idh": 0.750,
+    "organizations": ["UNESCO"]
+  },
+  {
+    "name": "Bulgaria",
+    "flag": "https://flagcdn.com/bg.svg",
+    "capital": "Sofia",
+    "population": 6700000,
+    "currency": "Bulgarian lev (BGN)",
+    "idh": 0.816,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Romania",
+    "flag": "https://flagcdn.com/ro.svg",
+    "capital": "Bucharest",
+    "population": 19000000,
+    "currency": "Romanian leu (RON)",
+    "idh": 0.828,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Moldova",
+    "flag": "https://flagcdn.com/md.svg",
+    "capital": "Chișinău",
+    "population": 2600000,
+    "currency": "Moldovan leu (MDL)",
+    "idh": 0.767,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Ukraine",
+    "flag": "https://flagcdn.com/ua.svg",
+    "capital": "Kyiv",
+    "population": 37000000,
+    "currency": "Ukrainian hryvnia (UAH)",
+    "idh": 0.773,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Russia",
+    "flag": "https://flagcdn.com/ru.svg",
+    "capital": "Moscow",
+    "population": 143000000,
+    "currency": "Russian ruble (RUB)",
+    "idh": 0.822,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Belarus",
+    "flag": "https://flagcdn.com/by.svg",
+    "capital": "Minsk",
+    "population": 9400000,
+    "currency": "Belarusian ruble (BYN)",
+    "idh": 0.808,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Liechtenstein",
+    "flag": "https://flagcdn.com/li.svg",
+    "capital": "Vaduz",
+    "population": 39000,
+    "currency": "Swiss franc (CHF)",
+    "idh": 0.916,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Luxembourg",
+    "flag": "https://flagcdn.com/lu.svg",
+    "capital": "Luxembourg",
+    "population": 660000,
+    "currency": "Euro (€)",
+    "idh": 0.930,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Andorra",
+    "flag": "https://flagcdn.com/ad.svg",
+    "capital": "Andorra la Vella",
+    "population": 79000,
+    "currency": "Euro (€)",
+    "idh": 0.858,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "San Marino",
+    "flag": "https://flagcdn.com/sm.svg",
+    "capital": "San Marino",
+    "population": 34000,
+    "currency": "Euro (€)",
+    "idh": 0.845,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Monaco",
+    "flag": "https://flagcdn.com/mc.svg",
+    "capital": "Monaco",
+    "population": 39000,
+    "currency": "Euro (€)",
+    "idh": 0.956,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Vatican City",
+    "flag": "https://flagcdn.com/va.svg",
+    "capital": "Vatican City",
+    "population": 800,
+    "currency": "Euro (€)",
+    "idh": 0.960,
+    "organizations": ["UNESCO"]
+  },
+  {
+    "name": "Malta",
+    "flag": "https://flagcdn.com/mt.svg",
+    "capital": "Valletta",
+    "population": 520000,
+    "currency": "Euro (€)",
+    "idh": 0.895,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Cyprus",
+    "flag": "https://flagcdn.com/cy.svg",
+    "capital": "Nicosia",
+    "population": 1200000,
+    "currency": "Euro (€)",
+    "idh": 0.887,
+    "organizations": ["ONU", "UE", "UNESCO"]
   }
 ]
