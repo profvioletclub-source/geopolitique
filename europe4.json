@@ -43,5 +43,50 @@
     "currency": "Euro (€)",
     "idh": 0.887,
     "organizations": ["ONU", "UE", "UNESCO"]
+  },
+  {
+    "name": "Armenia",
+    "flag": "https://flagcdn.com/am.svg",
+    "capital": "Yerevan",
+    "population": 2960000,
+    "currency": "Armenian dram (AMD)",
+    "idh": 0.759,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Azerbaijan",
+    "flag": "https://flagcdn.com/az.svg",
+    "capital": "Baku",
+    "population": 10100000,
+    "currency": "Azerbaijani manat (AZN)",
+    "idh": 0.756,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Georgia",
+    "flag": "https://flagcdn.com/ge.svg",
+    "capital": "Tbilisi",
+    "population": 3700000,
+    "currency": "Georgian lari (GEL)",
+    "idh": 0.812,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Kazakhstan",
+    "flag": "https://flagcdn.com/kz.svg",
+    "capital": "Astana",
+    "population": 19800000,
+    "currency": "Kazakhstani tenge (KZT)",
+    "idh": 0.811,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "United Kingdom",
+    "flag": "https://flagcdn.com/gb.svg",
+    "capital": "London",
+    "population": 67000000,
+    "currency": "Pound sterling (£)",
+    "idh": 0.929,
+    "organizations": ["ONU", "OTAN", "UNESCO"]
   }
 ]
