@@ -89,4 +89,94 @@
     "idh": 0.937,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   }
+  {
+    "name": "Austria",
+    "flag": "https://flagcdn.com/at.svg",
+    "capital": "Vienna",
+    "population": 9000000,
+    "currency": "Euro (€)",
+    "idh": 0.922,
+    "organizations": ["ONU", "UE", "UNESCO"]
+  },
+  {
+    "name": "Portugal",
+    "flag": "https://flagcdn.com/pt.svg",
+    "capital": "Lisbon",
+    "population": 10300000,
+    "currency": "Euro (€)",
+    "idh": 0.864,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Greece",
+    "flag": "https://flagcdn.com/gr.svg",
+    "capital": "Athens",
+    "population": 10700000,
+    "currency": "Euro (€)",
+    "idh": 0.888,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Ireland",
+    "flag": "https://flagcdn.com/ie.svg",
+    "capital": "Dublin",
+    "population": 5100000,
+    "currency": "Euro (€)",
+    "idh": 0.945,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Denmark",
+    "flag": "https://flagcdn.com/dk.svg",
+    "capital": "Copenhagen",
+    "population": 5900000,
+    "currency": "Danish krone (DKK)",
+    "idh": 0.940,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Finland",
+    "flag": "https://flagcdn.com/fi.svg",
+    "capital": "Helsinki",
+    "population": 5500000,
+    "currency": "Euro (€)",
+    "idh": 0.940,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Czech Republic",
+    "flag": "https://flagcdn.com/cz.svg",
+    "capital": "Prague",
+    "population": 10700000,
+    "currency": "Czech koruna (CZK)",
+    "idh": 0.900,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Hungary",
+    "flag": "https://flagcdn.com/hu.svg",
+    "capital": "Budapest",
+    "population": 9700000,
+    "currency": "Hungarian forint (HUF)",
+    "idh": 0.850,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Slovakia",
+    "flag": "https://flagcdn.com/sk.svg",
+    "capital": "Bratislava",
+    "population": 5400000,
+    "currency": "Euro (€)",
+    "idh": 0.860,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Slovenia",
+    "flag": "https://flagcdn.com/si.svg",
+    "capital": "Ljubljana",
+    "population": 2100000,
+    "currency": "Euro (€)",
+    "idh": 0.910,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  }
 ]
