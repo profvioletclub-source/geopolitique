@@ -7,6 +7,7 @@
     "currency": "Euro (€)",
     "idh": 0.750,
     "organizations": ["UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Bulgarie",
@@ -16,6 +17,7 @@
     "currency": "Lev Bulgare (BGN)",
     "idh": 0.816,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Roumanie",
@@ -25,6 +27,7 @@
     "currency": "Leu Roumain (RON)",
     "idh": 0.828,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Moldavie",
@@ -34,6 +37,7 @@
     "currency": "Leu Moldave (MDL)",
     "idh": 0.767,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Ukraine",
@@ -43,6 +47,7 @@
     "currency": "Hryvnia Ukrainien (UAH)",
     "idh": 0.773,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Russie",
@@ -52,6 +57,7 @@
     "currency": "Rouble Russe (RUB)",
     "idh": 0.822,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Biélorussie",
@@ -61,6 +67,7 @@
     "currency": "Rouble Biélorusse (BYN)",
     "idh": 0.808,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Liechtenstein",
@@ -70,6 +77,7 @@
     "currency": "Franc Suisse (CHF)",
     "idh": 0.916,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Luxembourg",
@@ -79,6 +87,7 @@
     "currency": "Euro (€)",
     "idh": 0.930,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Andorre",
@@ -88,5 +97,6 @@
     "currency": "Euro (€)",
     "idh": 0.858,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   }
 ]
