@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kosovo",
+    "flag": "https://flagcdn.com/xk.svg",
+    "capital": "Pristina",
+    "population": 1800000,
+    "currency": "Euro (€)",
+    "idh": 0.750,
+    "organizations": ["UNESCO"]
+  },
+  {
+    "name": "Bulgaria",
+    "flag": "https://flagcdn.com/bg.svg",
+    "capital": "Sofia",
+    "population": 6700000,
+    "currency": "Bulgarian lev (BGN)",
+    "idh": 0.816,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Romania",
+    "flag": "https://flagcdn.com/ro.svg",
+    "capital": "Bucharest",
+    "population": 19000000,
+    "currency": "Romanian leu (RON)",
+    "idh": 0.828,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Moldova",
+    "flag": "https://flagcdn.com/md.svg",
+    "capital": "Chișinău",
+    "population": 2600000,
+    "currency": "Moldovan leu (MDL)",
+    "idh": 0.767,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Ukraine",
+    "flag": "https://flagcdn.com/ua.svg",
+    "capital": "Kyiv",
+    "population": 37000000,
+    "currency": "Ukrainian hryvnia (UAH)",
+    "idh": 0.773,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Russia",
+    "flag": "https://flagcdn.com/ru.svg",
+    "capital": "Moscow",
+    "population": 143000000,
+    "currency": "Russian ruble (RUB)",
+    "idh": 0.822,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Belarus",
+    "flag": "https://flagcdn.com/by.svg",
+    "capital": "Minsk",
+    "population": 9400000,
+    "currency": "Belarusian ruble (BYN)",
+    "idh": 0.808,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Liechtenstein",
+    "flag": "https://flagcdn.com/li.svg",
+    "capital": "Vaduz",
+    "population": 39000,
+    "currency": "Swiss franc (CHF)",
+    "idh": 0.916,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Luxembourg",
+    "flag": "https://flagcdn.com/lu.svg",
+    "capital": "Luxembourg",
+    "population": 660000,
+    "currency": "Euro (€)",
+    "idh": 0.930,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Andorra",
+    "flag": "https://flagcdn.com/ad.svg",
+    "capital": "Andorra la Vella",
+    "population": 79000,
+    "currency": "Euro (€)",
+    "idh": 0.858,
+    "organizations": ["ONU", "UNESCO"]
+  }
+]
