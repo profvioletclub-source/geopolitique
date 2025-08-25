@@ -1,7 +1,5 @@
 fetch('europe.json')
   .then(res => res.json())
-fetch('europe1.json')
-  .then(res => res.json())
   .then(data => {
     const container = document.getElementById('countries');
     const searchInput = document.getElementById('search');
