@@ -1,9 +1,6 @@
 Promise.all([
   fetch('europe.json').then(res => res.json()),
-  fetch('europe1.json').then(res => res.json()),
-  fetch('europe2.json').then(res => res.json()),
-  fetch('europe3.json').then(res => res.json()),
-  fetch('europe4.json').then(res => res.json())
+  fetch('europe1.json').then(res => res.json())
 ])
 .then(allData => {
   const data = allData.flat(); // fusionne tous les tableaux en un seul
