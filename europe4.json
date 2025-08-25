@@ -6,7 +6,7 @@
     "population": 34000,
     "currency": "Euro (€)",
     "idh": 0.845,
-    "organizations": ["ONU", "UNESCO"]
+    "organizations": ["ONU", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -16,7 +16,7 @@
     "population": 39000,
     "currency": "Euro (€)",
     "idh": 0.956,
-    "organizations": ["ONU", "UNESCO"]
+    "organizations": ["ONU", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -26,7 +26,7 @@
     "population": 800,
     "currency": "Euro (€)",
     "idh": 0.960,
-    "organizations": ["UNESCO"]
+    "organizations": ["UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -36,7 +36,7 @@
     "population": 520000,
     "currency": "Euro (€)",
     "idh": 0.895,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -46,7 +46,7 @@
     "population": 1200000,
     "currency": "Euro (€)",
     "idh": 0.887,
-    "organizations": ["ONU", "UE", "UNESCO"]
+    "organizations": ["ONU", "UE", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -56,7 +56,7 @@
     "population": 2960000,
     "currency": "Dram Arménien (AMD)",
     "idh": 0.759,
-    "organizations": ["ONU", "UNESCO"]
+    "organizations": ["ONU", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -66,7 +66,7 @@
     "population": 10100000,
     "currency": "Manat Azerbaijanais (AZN)",
     "idh": 0.756,
-    "organizations": ["ONU", "UNESCO"]
+    "organizations": ["ONU", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -76,7 +76,7 @@
     "population": 3700000,
     "currency": "Lari Georgien (GEL)",
     "idh": 0.812,
-    "organizations": ["ONU", "UNESCO"]
+    "organizations": ["ONU", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -86,7 +86,7 @@
     "population": 19800000,
     "currency": "Tenge Kazakh (KZT)",
     "idh": 0.811,
-    "organizations": ["ONU", "UNESCO"]
+    "organizations": ["ONU", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -96,7 +96,7 @@
     "population": 67000000,
     "currency": "Livre Sterling (£)",
     "idh": 0.929,
-    "organizations": ["ONU", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   }
 ]
