@@ -7,6 +7,7 @@
     "currency": "Couronne Islandaise (ISK)",
     "idh": 0.959,
     "organizations": ["ONU", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Estonie",
@@ -16,6 +17,7 @@
     "currency": "Euro (€)",
     "idh": 0.912,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Lettonie",
@@ -25,6 +27,7 @@
     "currency": "Euro (€)",
     "idh": 0.866,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Lithuanie",
@@ -34,6 +37,7 @@
     "currency": "Euro (€)",
     "idh": 0.882,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Croatie",
@@ -43,6 +47,7 @@
     "currency": "Euro (€)",
     "idh": 0.858,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Bosnie-Herzégovine",
@@ -52,6 +57,7 @@
     "currency": "Mark Convertible (BAM)",
     "idh": 0.780,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Serbie",
@@ -61,6 +67,7 @@
     "currency": "Dinar Serbe (RSD)",
     "idh": 0.802,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Montenegro",
@@ -70,6 +77,7 @@
     "currency": "Euro (€)",
     "idh": 0.832,
     "organizations": ["ONU", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Albanie",
@@ -79,6 +87,7 @@
     "currency": "Lek Albanais (ALL)",
     "idh": 0.796,
     "organizations": ["ONU", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   },
   {
     "name": "Macédoine du Nord",
@@ -88,5 +97,6 @@
     "currency": "Dinar Macédonien (MKD)",
     "idh": 0.774,
     "organizations": ["ONU", "OTAN", "UNESCO"]
+    "headofstate": "A compléter"
   }
 ]
