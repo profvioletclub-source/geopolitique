@@ -39,6 +39,7 @@ Promise.all([
             <li><strong>Monnaie :</strong> ${country.currency}</li>
             <li><strong>IDH :</strong> ${country.idh}</li>
             <li><strong>Organisations :</strong> ${country.organizations.join(', ')}</li>
+            <li><strong>Chef de l'État :</strong> ${contry.headofstate}</li>
           </ul>
         `;
         container.appendChild(div);
