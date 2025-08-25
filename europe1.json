@@ -1,8 +1,8 @@
 [
   {
-    "name": "Austria",
+    "name": "Autriche",
     "flag": "https://flagcdn.com/at.svg",
-    "capital": "Vienna",
+    "capital": "Vienne",
     "population": 9000000,
     "currency": "Euro (€)",
     "idh": 0.922,
@@ -11,23 +11,23 @@
   {
     "name": "Portugal",
     "flag": "https://flagcdn.com/pt.svg",
-    "capital": "Lisbon",
+    "capital": "Lisbonne",
     "population": 10300000,
     "currency": "Euro (€)",
     "idh": 0.864,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Greece",
+    "name": "Grèce",
     "flag": "https://flagcdn.com/gr.svg",
-    "capital": "Athens",
+    "capital": "Athènes",
     "population": 10700000,
     "currency": "Euro (€)",
     "idh": 0.888,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Ireland",
+    "name": "Irlande",
     "flag": "https://flagcdn.com/ie.svg",
     "capital": "Dublin",
     "population": 5100000,
@@ -36,16 +36,16 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Denmark",
+    "name": "Danmark",
     "flag": "https://flagcdn.com/dk.svg",
-    "capital": "Copenhagen",
+    "capital": "Copenhague",
     "population": 5900000,
-    "currency": "Danish krone (DKK)",
+    "currency": "Couronne danoise (DKK)",
     "idh": 0.940,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Finland",
+    "name": "Finlande",
     "flag": "https://flagcdn.com/fi.svg",
     "capital": "Helsinki",
     "population": 5500000,
@@ -54,25 +54,25 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Czech Republic",
+    "name": "Tchéquie",
     "flag": "https://flagcdn.com/cz.svg",
     "capital": "Prague",
     "population": 10700000,
-    "currency": "Czech koruna (CZK)",
+    "currency": "Couronne tchèque (CZK)",
     "idh": 0.900,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Hungary",
+    "name": "Hongrie",
     "flag": "https://flagcdn.com/hu.svg",
     "capital": "Budapest",
     "population": 9700000,
-    "currency": "Hungarian forint (HUF)",
+    "currency": "Forint hongrois (HUF)",
     "idh": 0.850,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Slovakia",
+    "name": "Slovaquie",
     "flag": "https://flagcdn.com/sk.svg",
     "capital": "Bratislava",
     "population": 5400000,
@@ -81,7 +81,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Slovenia",
+    "name": "Slovénie",
     "flag": "https://flagcdn.com/si.svg",
     "capital": "Ljubljana",
     "population": 2100000,
