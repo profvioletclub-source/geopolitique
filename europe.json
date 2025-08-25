@@ -1,0 +1,29 @@
+[
+  {
+    "name": "France",
+    "flag": "https://flagcdn.com/fr.svg",
+    "capital": "Paris",
+    "population": 67800000,
+    "currency": "Euro (€)",
+    "idh": 0.903,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Allemagne",
+    "flag": "https://flagcdn.com/de.svg",
+    "capital": "Berlin",
+    "population": 83200000,
+    "currency": "Euro (€)",
+    "idh": 0.942,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Suisse",
+    "flag": "https://flagcdn.com/ch.svg",
+    "capital": "Berne",
+    "population": 8800000,
+    "currency": "Franc suisse (CHF)",
+    "idh": 0.955,
+    "organizations": ["ONU", "UNESCO"]
+  }
+]
