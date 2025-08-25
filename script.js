@@ -3,7 +3,7 @@ Promise.all([
   fetch('europe1.json').then(res => res.json()),
   fetch('europe2.json').then(res => res.json()),
   fetch('europe3.json').then(res => res.json()),
-  fetch('europe4.json').then(res => res.json()),
+  fetch('europe4.json').then(res => res.json())
 ])
 .then(([data1, data2]) => {
   const data = [...data1, ...data2]; // fusionne les deux tableaux
