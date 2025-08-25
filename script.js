@@ -4,7 +4,7 @@ fetch('europe0.json')
     const container = document.getElementById('countries');
     const searchInput = document.getElementById('search');
     const filters = document.querySelectorAll('#filters input');
-
+    
     function renderCountries() {
       const query = searchInput.value.toLowerCase();
       const activeFilters = Array.from(filters)
