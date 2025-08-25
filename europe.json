@@ -9,7 +9,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Germany",
+    "name": "Allemagne",
     "flag": "https://flagcdn.com/de.svg",
     "capital": "Berlin",
     "population": 83200000,
@@ -18,7 +18,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Italy",
+    "name": "Italie",
     "flag": "https://flagcdn.com/it.svg",
     "capital": "Rome",
     "population": 59000000,
@@ -27,7 +27,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Spain",
+    "name": "Espagne",
     "flag": "https://flagcdn.com/es.svg",
     "capital": "Madrid",
     "population": 47400000,
@@ -36,7 +36,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Sweden",
+    "name": "Suède",
     "flag": "https://flagcdn.com/se.svg",
     "capital": "Stockholm",
     "population": 10500000,
@@ -45,7 +45,7 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Norway",
+    "name": "Norvège",
     "flag": "https://flagcdn.com/no.svg",
     "capital": "Oslo",
     "population": 5400000,
@@ -54,25 +54,25 @@
     "organizations": ["ONU", "OTAN", "UNESCO"]
   },
   {
-    "name": "Switzerland",
+    "name": "Suisse",
     "flag": "https://flagcdn.com/ch.svg",
-    "capital": "Bern",
+    "capital": "Berne",
     "population": 8800000,
     "currency": "Swiss franc (CHF)",
     "idh": 0.955,
     "organizations": ["ONU", "UNESCO"]
   },
   {
-    "name": "Poland",
+    "name": "Pologne",
     "flag": "https://flagcdn.com/pl.svg",
-    "capital": "Warsaw",
+    "capital": "Varsovie",
     "population": 38000000,
     "currency": "Polish złoty (PLN)",
     "idh": 0.880,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Netherlands",
+    "name": "Pays-Bas",
     "flag": "https://flagcdn.com/nl.svg",
     "capital": "Amsterdam",
     "population": 17500000,
@@ -81,9 +81,9 @@
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
   },
   {
-    "name": "Belgium",
+    "name": "Belgique",
     "flag": "https://flagcdn.com/be.svg",
-    "capital": "Brussels",
+    "capital": "Bruxelles"
     "population": 11600000,
     "currency": "Euro (€)",
     "idh": 0.937,
