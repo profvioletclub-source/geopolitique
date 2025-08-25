@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Iceland",
+    "flag": "https://flagcdn.com/is.svg",
+    "capital": "Reykjavik",
+    "population": 370000,
+    "currency": "Icelandic króna (ISK)",
+    "idh": 0.959,
+    "organizations": ["ONU", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Estonia",
+    "flag": "https://flagcdn.com/ee.svg",
+    "capital": "Tallinn",
+    "population": 1320000,
+    "currency": "Euro (€)",
+    "idh": 0.912,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Latvia",
+    "flag": "https://flagcdn.com/lv.svg",
+    "capital": "Riga",
+    "population": 1900000,
+    "currency": "Euro (€)",
+    "idh": 0.866,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Lithuania",
+    "flag": "https://flagcdn.com/lt.svg",
+    "capital": "Vilnius",
+    "population": 2800000,
+    "currency": "Euro (€)",
+    "idh": 0.882,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Croatia",
+    "flag": "https://flagcdn.com/hr.svg",
+    "capital": "Zagreb",
+    "population": 3900000,
+    "currency": "Euro (€)",
+    "idh": 0.858,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "flag": "https://flagcdn.com/ba.svg",
+    "capital": "Sarajevo",
+    "population": 3300000,
+    "currency": "Convertible mark (BAM)",
+    "idh": 0.780,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Serbia",
+    "flag": "https://flagcdn.com/rs.svg",
+    "capital": "Belgrade",
+    "population": 6700000,
+    "currency": "Serbian dinar (RSD)",
+    "idh": 0.802,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Montenegro",
+    "flag": "https://flagcdn.com/me.svg",
+    "capital": "Podgorica",
+    "population": 620000,
+    "currency": "Euro (€)",
+    "idh": 0.832,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Albania",
+    "flag": "https://flagcdn.com/al.svg",
+    "capital": "Tirana",
+    "population": 2800000,
+    "currency": "Albanian lek (ALL)",
+    "idh": 0.796,
+    "organizations": ["ONU", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "North Macedonia",
+    "flag": "https://flagcdn.com/mk.svg",
+    "capital": "Skopje",
+    "population": 1900000,
+    "currency": "Macedonian denar (MKD)",
+    "idh": 0.774,
+    "organizations": ["ONU", "OTAN", "UNESCO"]
+  }
+]
