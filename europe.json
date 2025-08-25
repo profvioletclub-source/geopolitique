@@ -6,7 +6,7 @@
     "population": 67800000,
     "currency": "Euro (€)",
     "idh": 0.903,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Emmanuel Macron, Président"
   },
   {
@@ -16,7 +16,7 @@
     "population": 83200000,
     "currency": "Euro (€)",
     "idh": 0.942,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate" : "Frank-Walter Steinmeier, Président"
   },
   {
@@ -26,7 +26,7 @@
     "population": 59000000,
     "currency": "Euro (€)",
     "idh": 0.895,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Sergio Mattarella, Président"
   },
   {
@@ -36,7 +36,7 @@
     "population": 47400000,
     "currency": "Euro (€)",
     "idh": 0.905,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Philippe VI, Roi"
   },
   {
@@ -46,7 +46,7 @@
     "population": 10500000,
     "currency": "Couronne Suèdoise (SEK)",
     "idh": 0.945,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -56,7 +56,7 @@
     "population": 5400000,
     "currency": "Couronne Norvégienne (NOK)",
     "idh": 0.961,
-    "organizations": ["ONU", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -66,7 +66,7 @@
     "population": 8800000,
     "currency": "Franc Suisse (CHF)",
     "idh": 0.955,
-    "organizations": ["ONU", "UNESCO"]
+    "organizations": ["ONU", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -76,7 +76,7 @@
     "population": 38000000,
     "currency": "Złoty Polonais (PLN)",
     "idh": 0.880,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -86,7 +86,7 @@
     "population": 17500000,
     "currency": "Euro (€)",
     "idh": 0.944,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   },
   {
@@ -96,7 +96,7 @@
     "population": 11600000,
     "currency": "Euro (€)",
     "idh": 0.937,
-    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "A compléter"
   }
 ]
