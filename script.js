@@ -1,4 +1,6 @@
-fetch('europe.json' and 'europe1.json')
+fetch('europe.json')
+  .then(res => res.json())
+fetch('europe1.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById('countries');
