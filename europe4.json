@@ -1,0 +1,47 @@
+[
+  {
+    "name": "San Marino",
+    "flag": "https://flagcdn.com/sm.svg",
+    "capital": "San Marino",
+    "population": 34000,
+    "currency": "Euro (€)",
+    "idh": 0.845,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Monaco",
+    "flag": "https://flagcdn.com/mc.svg",
+    "capital": "Monaco",
+    "population": 39000,
+    "currency": "Euro (€)",
+    "idh": 0.956,
+    "organizations": ["ONU", "UNESCO"]
+  },
+  {
+    "name": "Vatican City",
+    "flag": "https://flagcdn.com/va.svg",
+    "capital": "Vatican City",
+    "population": 800,
+    "currency": "Euro (€)",
+    "idh": 0.960,
+    "organizations": ["UNESCO"]
+  },
+  {
+    "name": "Malta",
+    "flag": "https://flagcdn.com/mt.svg",
+    "capital": "Valletta",
+    "population": 520000,
+    "currency": "Euro (€)",
+    "idh": 0.895,
+    "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+  },
+  {
+    "name": "Cyprus",
+    "flag": "https://flagcdn.com/cy.svg",
+    "capital": "Nicosia",
+    "population": 1200000,
+    "currency": "Euro (€)",
+    "idh": 0.887,
+    "organizations": ["ONU", "UE", "UNESCO"]
+  }
+]
