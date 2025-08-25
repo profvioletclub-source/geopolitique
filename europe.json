@@ -7,6 +7,7 @@
     "currency": "Euro (€)",
     "idh": 0.903,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate": "Emmanuel Macron, Président"
   },
   {
     "name": "Allemagne",
@@ -16,6 +17,7 @@
     "currency": "Euro (€)",
     "idh": 0.942,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"]
+    "headofstate" : "Frank-Walter Steinmeier, Président"
   },
   {
     "name": "Italie",
