@@ -1,9 +1,5 @@
-Promise.all([
-  fetch('europe.json').then(res => res.json()),
-  fetch('europe1.json').then(res => res.json())
-])
-.then(allData => {
-  const data = allData.flat(); // fusionne tous les tableaux en un seul
+fetch('europe.json').then(res => res.json())
+.then(data => {
   const container = document.getElementById('countries');
   const searchInput = document.getElementById('search');
   const filters = document.querySelectorAll('#filters input');
