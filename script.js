@@ -40,3 +40,8 @@ fetch('europe.json')
     filters.forEach(f => f.addEventListener('change', renderCountries));
     renderCountries();
   });
+
+  .catch(err => {
+    console.error("Erreur de chargement :", err);
+    alert("Erreur : impossible de charger le fichier JSON.");
+  });
