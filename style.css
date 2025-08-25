@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  padding: 2em;
+  background: #f9f9f9;
+}
+h1 {
+  text-align: center;
+}
+#search {
+  display: block;
+  margin: 1em auto;
+  padding: 0.5em;
+  width: 60%;
+}
+#filters {
+  text-align: center;
+  margin-bottom: 2em;
+}
+.pays {
+  background: white;
+  padding: 1em;
+  margin: 1em auto;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  width: 80%;
+}
+.pays h2 {
+  margin-top: 0;
+}
