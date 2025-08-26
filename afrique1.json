@@ -8,6 +8,7 @@
     "idh": 0.574,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Denis Sassou-Nguesso, Président"
+    "continent": "Afrique"
   },
   {
     "name": "République démocratique du Congo",
@@ -18,6 +19,7 @@
     "idh": 0.479,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Félix Tshisekedi, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Côte d'Ivoire",
@@ -28,6 +30,7 @@
     "idh": 0.550,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Alassane Ouattara, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Djibouti",
@@ -38,6 +41,7 @@
     "idh": 0.549,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Ismaïl Omar Guelleh, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Égypte",
@@ -48,6 +52,7 @@
     "idh": 0.731,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Abdel Fattah al-Sissi, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Érythrée",
@@ -58,6 +63,7 @@
     "idh": 0.459,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Isaias Afwerki, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Eswatini",
@@ -68,6 +74,7 @@
     "idh": 0.611,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Mswati III, Roi"
+    "continent": "Afrique"
   },
   {
     "name": "Éthiopie",
@@ -78,6 +85,7 @@
     "idh": 0.498,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Sahle-Work Zewde, Présidente"
+    "continent": "Afrique"
   },
   {
     "name": "Gabon",
@@ -88,6 +96,7 @@
     "idh": 0.703,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Brice Clotaire Oligui Nguema, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Gambie",
@@ -98,5 +107,6 @@
     "idh": 0.496,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Adama Barrow, Président"
+    "continent": "Afrique"
   }
 ]
