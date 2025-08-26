@@ -70,4 +70,33 @@
     "headofstate": "Salva Kiir Mayardit, Président"
   },
   {
-    "name": "Tanzanie
+    "name": "Tanzanie",
+    "flag": "https://flagcdn.com/tz.svg",
+    "capital": "Dodoma",
+    "population": 67000000,
+    "currency": "Shilling tanzanien (TZS)",
+    "idh": 0.549,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Samia Suluhu Hassan, Présidente"
+  },
+  {
+    "name": "Tchad",
+    "flag": "https://flagcdn.com/td.svg",
+    "capital": "N'Djamena",
+    "population": 18000000,
+    "currency": "Franc CFA (XAF)",
+    "idh": 0.398,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Mahamat Idriss Déby, Président de transition"
+  },
+  {
+    "name": "Togo",
+    "flag": "https://flagcdn.com/tg.svg",
+    "capital": "Lomé",
+    "population": 8800000,
+    "currency": "Franc CFA (XOF)",
+    "idh": 0.539,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Faure Gnassingbé, Président"
+  }
+]
