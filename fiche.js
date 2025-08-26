@@ -34,6 +34,7 @@ Promise.all([
         <li><strong>IDH :</strong> ${country.idh}</li>
         <li><strong>Organisations :</strong> ${country.organizations.join(', ')}</li>
         <li><strong>Chef de l'État :</strong> ${country.headofstate}</li>
+        <li><strong>Continent :</strong> ${country.continent}</li>
       </ul>
       <a href="index.html">← Retour à la liste</a>
     </div>
