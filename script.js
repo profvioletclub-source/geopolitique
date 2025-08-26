@@ -18,10 +18,11 @@ Promise.all([
     const activeFilters = Array.from(filters)
       .filter(f => f.checked)
       .map(f => f.value);
+    const sortedData = [...data].sort((a, b) => a.name.localeCompare(b.name));
 
     container.innerHTML = '';
 
-        data.forEach(country => {
+        sortedData.forEach(country => {
       const matchName = country.name.toLowerCase().includes(query);
       const matchOrg = activeFilters.length === 0 || activeFilters.every(org =>
         country.organizations.includes(org)
