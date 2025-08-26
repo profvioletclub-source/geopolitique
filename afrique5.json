@@ -48,5 +48,15 @@
     "idh": null,
     "organizations": [],
     "headofstate": "Muse Bihi Abdi, Président"
+  },
+  {
+  "name": "Afrique du Sud",
+  "flag": "https://flagcdn.com/za.svg",
+  "capital": "Pretoria",
+  "population": 60000000,
+  "currency": "Rand (ZAR)",
+  "idh": 0.713,
+  "organizations": ["ONU", "UA", "UNESCO"],
+  "headofstate": "Cyril Ramaphosa, Président"
   }
 ]
