@@ -8,6 +8,7 @@
     "idh": 0.750,
     "organizations": ["UNESCO"],
     "headofstate": "Vjosa Osmani, Présidente"
+    "continent": "Europe"
   },
   {
     "name": "Bulgarie",
@@ -18,6 +19,7 @@
     "idh": 0.816,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Roumen Radev, Président"
+    "continent": "Europe"
   },
   {
     "name": "Roumanie",
@@ -28,6 +30,7 @@
     "idh": 0.828,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Nicușor Dan, Président"
+    "continent": "Europe"
   },
   {
     "name": "Moldavie",
@@ -38,6 +41,7 @@
     "idh": 0.767,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Maia Sandu, Présidente"
+    "continent": "Europe"
   },
   {
     "name": "Ukraine",
@@ -48,6 +52,7 @@
     "idh": 0.773,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Volodymyr Zelensky, Président"
+    "continent": "Europe"
   },
   {
     "name": "Russie",
@@ -58,6 +63,7 @@
     "idh": 0.822,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Vladimir Poutine, Président"
+    "continent": "Europe"
   },
   {
     "name": "Biélorussie",
@@ -68,6 +74,7 @@
     "idh": 0.808,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Alexandre Loukachenko, Président"
+    "continent": "Europe"
   },
   {
     "name": "Liechtenstein",
@@ -78,6 +85,7 @@
     "idh": 0.916,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Hans-Adam II, Prince"
+    "continent": "Europe"
   },
   {
     "name": "Luxembourg",
@@ -88,6 +96,7 @@
     "idh": 0.930,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Henri, Grand-Duc"
+    "continent": "Europe"
   },
   {
     "name": "Andorre",
@@ -98,5 +107,6 @@
     "idh": 0.858,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Emmanuel Macron, Coprince français & Josep-Lluís Serrano, Coprince Épiscopale"
+    "continent": "Europe"
   }
 ]
