@@ -21,7 +21,7 @@ Promise.all([
 
     container.innerHTML = '';
 
-    data.forEach(country => {
+        data.forEach(country => {
       const matchName = country.name.toLowerCase().includes(query);
       const matchOrg = activeFilters.length === 0 || activeFilters.every(org =>
         country.organizations.includes(org)
@@ -33,14 +33,7 @@ Promise.all([
         div.innerHTML = `
           <h2> 🇺🇳 ${country.name}</h2>
           <img src="${country.flag}" width="50"><br>
-          <ul>
-            <li><strong>Capitale :</strong> ${country.capital}</li>
-            <li><strong>Population :</strong> ${country.population.toLocaleString()}</li>
-            <li><strong>Monnaie :</strong> ${country.currency}</li>
-            <li><strong>IDH :</strong> ${country.idh}</li>
-            <li><strong>Organisations :</strong> ${country.organizations.join(', ')}</li>
-            <li><strong>Chef de l'État :</strong> ${country.headofstate}</li>
-          </ul>
+          <a href="pays.html?name=${encodeURIComponent(country.name)}">Voir la fiche</a>
         `;
         container.appendChild(div);
       }
