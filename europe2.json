@@ -8,6 +8,7 @@
     "idh": 0.959,
     "organizations": ["ONU", "OTAN", "UNESCO"],
     "headofstate": "Halla Tomásdottír, Présidente"
+    "continent": "Europe"
   },
   {
     "name": "Estonie",
@@ -18,6 +19,7 @@
     "idh": 0.912,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Alar Karis, Président"
+    "continent": "Europe"
   },
   {
     "name": "Lettonie",
@@ -28,6 +30,7 @@
     "idh": 0.866,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Edgars Rinkēvičs, Président"
+    "continent": "Europe"
   },
   {
     "name": "Lithuanie",
@@ -38,6 +41,7 @@
     "idh": 0.882,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Gitanas Nausėda, Président"
+    "continent": "Europe"
   },
   {
     "name": "Croatie",
@@ -48,6 +52,7 @@
     "idh": 0.858,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Zoran Milanović, Président"
+    "continent": "Europe"
   },
   {
     "name": "Bosnie-Herzégovine",
@@ -58,6 +63,7 @@
     "idh": 0.780,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Christian Schmidt, Haut représentant international / Željka Cvijanović & Željko Komšić & Denis Bećirović, Présidence collégiale"
+    "continent": "Europe"
   },
   {
     "name": "Serbie",
@@ -68,6 +74,7 @@
     "idh": 0.802,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Aleksandar Vučić, Président"
+    "continent": "Europe"
   },
   {
     "name": "Montenegro",
@@ -78,6 +85,7 @@
     "idh": 0.832,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Jakov Milatović, Président"
+    "continent": "Europe"
   },
   {
     "name": "Albanie",
@@ -88,6 +96,7 @@
     "idh": 0.796,
     "organizations": ["ONU", "OTAN", "UNESCO"],
     "headofstate": "Bajram Begaj, Président"
+    "continent": "Europe"
   },
   {
     "name": "Macédoine du Nord",
@@ -98,5 +107,6 @@
     "idh": 0.774,
     "organizations": ["ONU", "OTAN", "UNESCO"],
     "headofstate": "Gordana Siljanovska-Davkova, Présidente"
+    "continent": "Europe"
   }
 ]
