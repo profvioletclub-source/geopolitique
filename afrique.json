@@ -8,6 +8,7 @@
     "idh": 0.748,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Abdelmadjid Tebboune, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Angola",
@@ -18,6 +19,7 @@
     "idh": 0.581,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "João Lourenço, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Bénin",
@@ -28,6 +30,7 @@
     "idh": 0.545,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Patrice Talon, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Botswana",
@@ -38,6 +41,7 @@
     "idh": 0.735,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Mokgweetsi Masisi, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Burkina Faso",
@@ -48,6 +52,7 @@
     "idh": 0.449,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Ibrahim Traoré, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Burundi",
@@ -58,6 +63,7 @@
     "idh": 0.426,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Évariste Ndayishimiye, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Cameroun",
@@ -68,6 +74,7 @@
     "idh": 0.563,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Paul Biya, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Cap-Vert",
@@ -78,6 +85,7 @@
     "idh": 0.662,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "José Maria Neves, Président"
+    "continent": "Afrique"
   },
   {
     "name": "République centrafricaine",
@@ -88,6 +96,7 @@
     "idh": 0.397,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Faustin-Archange Touadéra, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Comores",
@@ -98,5 +107,6 @@
     "idh": 0.554,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Azali Assoumani, Président"
+    "continent": "Afrique"
   }
 ]
