@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Tunisie",
+    "flag": "https://flagcdn.com/tn.svg",
+    "capital": "Tunis",
+    "population": 12000000,
+    "currency": "Dinar tunisien (TND)",
+    "idh": 0.740,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Kaïs Saïed, Président"
+  },
+  {
+    "name": "Zambie",
+    "flag": "https://flagcdn.com/zm.svg",
+    "capital": "Lusaka",
+    "population": 20000000,
+    "currency": "Kwacha zambien (ZMW)",
+    "idh": 0.601,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Hakainde Hichilema, Président"
+  },
+  {
+    "name": "Zimbabwe",
+    "flag": "https://flagcdn.com/zw.svg",
+    "capital": "Harare",
+    "population": 16000000,
+    "currency": "Dollar zimbabwéen (ZWL)",
+    "idh": 0.571,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Emmerson Mnangagwa, Président"
+  },
+  {
+    "name": "Sahara occidental",
+    "flag": "https://flagcdn.com/eh.svg",
+    "capital": "Laâyoune (revendiquée) & Tifariti (administrative)",
+    "population": 600000,
+    "currency": "Dirham marocain (MAD)",
+    "idh": null,
+    "organizations": ["UA"],
+    "headofstate": "Brahim Ghali, Président de la RASD"
+  },
+  {
+    "name": "Somaliland",
+    "flag": "https://flagcdn.com/so.svg",
+    "capital": "Hargeisa",
+    "population": 3800000,
+    "currency": "Shilling somalilandais (SLS)",
+    "idh": null,
+    "organizations": [],
+    "headofstate": "Muse Bihi Abdi, Président"
+  }
+]
