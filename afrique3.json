@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Mali",
+    "flag": "https://flagcdn.com/ml.svg",
+    "capital": "Bamako",
+    "population": 22000000,
+    "currency": "Franc CFA (XOF)",
+    "idh": 0.428,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Assimi Goïta, Président de la transition"
+  },
+  {
+    "name": "Maroc",
+    "flag": "https://flagcdn.com/ma.svg",
+    "capital": "Rabat",
+    "population": 37000000,
+    "currency": "Dirham marocain (MAD)",
+    "idh": 0.683,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Mohammed VI, Roi"
+  },
+  {
+    "name": "Maurice",
+    "flag": "https://flagcdn.com/mu.svg",
+    "capital": "Port-Louis",
+    "population": 1300000,
+    "currency": "Roupie mauricienne (MUR)",
+    "idh": 0.802,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Prithvirajsing Roopun, Président"
+  },
+  {
+    "name": "Mauritanie",
+    "flag": "https://flagcdn.com/mr.svg",
+    "capital": "Nouakchott",
+    "population": 4700000,
+    "currency": "Ouguiya (MRU)",
+    "idh": 0.546,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Mohamed Ould Ghazouani, Président"
+  },
+  {
+    "name": "Mozambique",
+    "flag": "https://flagcdn.com/mz.svg",
+    "capital": "Maputo",
+    "population": 33000000,
+    "currency": "Metical (MZN)",
+    "idh": 0.456,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Filipe Nyusi, Président"
+  },
+  {
+    "name": "Namibie",
+    "flag": "https://flagcdn.com/na.svg",
+    "capital": "Windhoek",
+    "population": 2600000,
+    "currency": "Dollar namibien (NAD)",
+    "idh": 0.646,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Nangolo Mbumba, Président"
+  },
+  {
+    "name": "Niger",
+    "flag": "https://flagcdn.com/ne.svg",
+    "capital": "Niamey",
+    "population": 27000000,
+    "currency": "Franc CFA (XOF)",
+    "idh": 0.400,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Abdourahamane Tchiani, Président du CNSP"
+  },
+  {
+    "name": "Nigeria",
+    "flag": "https://flagcdn.com/ng.svg",
+    "capital": "Abuja",
+    "population": 223000000,
+    "currency": "Naira (NGN)",
+    "idh": 0.548,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Bola Ahmed Tinubu, Président"
+  },
+  {
+    "name": "Ouganda",
+    "flag": "https://flagcdn.com/ug.svg",
+    "capital": "Kampala",
+    "population": 48000000,
+    "currency": "Shilling ougandais (UGX)",
+    "idh": 0.544,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Yoweri Museveni, Président"
+  },
+  {
+    "name": "Rwanda",
+    "flag": "https://flagcdn.com/rw.svg",
+    "capital": "Kigali",
+    "population": 14000000,
+    "currency": "Franc rwandais (RWF)",
+    "idh": 0.534,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Paul Kagame, Président"
+  }
+]
