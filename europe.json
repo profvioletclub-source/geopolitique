@@ -8,6 +8,7 @@
     "idh": 0.903,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Emmanuel Macron, Président"
+    "continent": "Europe"
   },
   {
     "name": "Allemagne",
@@ -18,6 +19,7 @@
     "idh": 0.942,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate" : "Frank-Walter Steinmeier, Président"
+    "continent": "Europe"
   },
   {
     "name": "Italie",
@@ -28,6 +30,7 @@
     "idh": 0.895,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Sergio Mattarella, Président"
+    "continent": "Europe"
   },
   {
     "name": "Espagne",
@@ -38,6 +41,7 @@
     "idh": 0.905,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Philippe VI, Roi"
+    "continent": "Europe"
   },
   {
     "name": "Suède",
@@ -48,6 +52,7 @@
     "idh": 0.945,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Charles XVI Gustave, Roi"
+    "continent": "Europe"
   },
   {
     "name": "Norvège",
@@ -58,6 +63,7 @@
     "idh": 0.961,
     "organizations": ["ONU", "OTAN", "UNESCO"],
     "headofstate": "Harald V, Roi"
+    "continent": "Europe"
   },
   {
     "name": "Suisse",
@@ -68,6 +74,7 @@
     "idh": 0.955,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Karin Keller-Sutter, Présidente"
+    "continent": "Europe"
   },
   {
     "name": "Pologne",
@@ -78,6 +85,7 @@
     "idh": 0.880,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Karol Nawrocky, Président"
+    "continent": "Europe"
   },
   {
     "name": "Pays-Bas",
@@ -88,6 +96,7 @@
     "idh": 0.944,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Guillaume-Alexandre, Roi"
+    "continent": "Europe"
   },
   {
     "name": "Belgique",
@@ -98,5 +107,6 @@
     "idh": 0.937,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Philippe, Roi"
+    "continent": "Europe"
   }
 ]
