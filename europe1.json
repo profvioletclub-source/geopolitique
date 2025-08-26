@@ -8,6 +8,7 @@
     "idh": 0.922,
     "organizations": ["ONU", "UE", "UNESCO"],
     "headofstate": "Alexander Van der Bellen, Président"
+    "continent": "Europe"
   },
   {
     "name": "Portugal",
@@ -18,6 +19,7 @@
     "idh": 0.864,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Marcelo Rebelo de Sousa, Président"
+    "continent": "Europe"
   },
   {
     "name": "Grèce",
@@ -28,6 +30,7 @@
     "idh": 0.888,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Konstantínos Tasoúlas, Président"
+    "continent": "Europe"
   },
   {
     "name": "Irlande",
@@ -38,6 +41,7 @@
     "idh": 0.945,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Michael D. Higgins, Président"
+    "continent": "Europe"
   },
   {
     "name": "Danmark",
@@ -48,6 +52,7 @@
     "idh": 0.940,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Frédéric X, Roi"
+    "continent": "Europe"
   },
   {
     "name": "Finlande",
@@ -58,6 +63,7 @@
     "idh": 0.940,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Alexander Stubb, Président"
+    "continent": "Europe"
   },
   {
     "name": "Tchéquie",
@@ -68,6 +74,7 @@
     "idh": 0.900,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Petr Pavel, Président"
+    "continent": "Europe"
   },
   {
     "name": "Hongrie",
@@ -78,6 +85,7 @@
     "idh": 0.850,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Tamás Sulyok, Président"
+    "continent": "Europe"
   },
   {
     "name": "Slovaquie",
@@ -88,6 +96,7 @@
     "idh": 0.860,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Peter Pellegrini, Président"
+    "continent": "Europe"
   },
   {
     "name": "Slovénie",
@@ -98,5 +107,6 @@
     "idh": 0.910,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Nataša Pirc Musar, Présidente"
+    "continent": "Europe"
   }
 ]
