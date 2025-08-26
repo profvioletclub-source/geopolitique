@@ -3,7 +3,13 @@ Promise.all([
   fetch('europe1.json').then(res => res.json()),
   fetch('europe2.json').then(res => res.json()),
   fetch('europe3.json').then(res => res.json()),
-  fetch('europe4.json').then(res => res.json())
+  fetch('europe4.json').then(res => res.json()),
+  fetch('afrique.json').then(res => res.json()),
+  fetch('afrique1.json').then(res => res.json()),
+  fetch('afrique2.json').then(res => res.json()),
+  fetch('afrique3.json').then(res => res.json()),
+  fetch('afrique4.json').then(res => res.json()),
+  fetch('afrique5.json').then(res => res.json())
 ])
 
 .then(allData => {
