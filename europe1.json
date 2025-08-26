@@ -7,7 +7,7 @@
     "currency": "Euro (€)",
     "idh": 0.922,
     "organizations": ["ONU", "UE", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Alexander Van der Bellen, Président"
   },
   {
     "name": "Portugal",
@@ -17,7 +17,7 @@
     "currency": "Euro (€)",
     "idh": 0.864,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Marcelo Rebelo de Sousa, Président"
   },
   {
     "name": "Grèce",
@@ -27,7 +27,7 @@
     "currency": "Euro (€)",
     "idh": 0.888,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Konstantínos Tasoúlas, Président"
   },
   {
     "name": "Irlande",
@@ -37,7 +37,7 @@
     "currency": "Euro (€)",
     "idh": 0.945,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Michael D. Higgins, Président"
   },
   {
     "name": "Danmark",
@@ -47,7 +47,7 @@
     "currency": "Couronne danoise (DKK)",
     "idh": 0.940,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Frédéric X, Roi"
   },
   {
     "name": "Finlande",
@@ -57,7 +57,7 @@
     "currency": "Euro (€)",
     "idh": 0.940,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Alexander Stubb, Président"
   },
   {
     "name": "Tchéquie",
@@ -67,7 +67,7 @@
     "currency": "Couronne tchèque (CZK)",
     "idh": 0.900,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Petr Pavel, Président"
   },
   {
     "name": "Hongrie",
@@ -77,7 +77,7 @@
     "currency": "Forint hongrois (HUF)",
     "idh": 0.850,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Tamás Sulyok, Président"
   },
   {
     "name": "Slovaquie",
@@ -87,7 +87,7 @@
     "currency": "Euro (€)",
     "idh": 0.860,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Peter Pellegrini, Président"
   },
   {
     "name": "Slovénie",
@@ -97,6 +97,6 @@
     "currency": "Euro (€)",
     "idh": 0.910,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Nataša Pirc Musar, Présidente"
   }
 ]
