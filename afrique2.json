@@ -8,6 +8,7 @@
     "idh": 0.632,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Nana Akufo-Addo, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Guinée",
@@ -18,6 +19,7 @@
     "idh": 0.465,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Mamadi Doumbouya, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Guinée-Bissau",
@@ -28,6 +30,7 @@
     "idh": 0.480,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Umaro Sissoco Embaló, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Guinée équatoriale",
@@ -38,6 +41,7 @@
     "idh": 0.592,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Teodoro Obiang Nguema Mbasogo, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Kenya",
@@ -48,6 +52,7 @@
     "idh": 0.575,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "William Ruto, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Lesotho",
@@ -58,6 +63,7 @@
     "idh": 0.527,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Letsie III, Roi"
+    "continent": "Afrique"
   },
   {
     "name": "Libéria",
@@ -68,6 +74,7 @@
     "idh": 0.481,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Joseph Boakai, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Libye",
@@ -78,6 +85,7 @@
     "idh": 0.718,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Mohamed al-Menfi, Président du Conseil présidentiel"
+    "continent": "Afrique"
   },
   {
     "name": "Madagascar",
@@ -88,6 +96,7 @@
     "idh": 0.501,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Andry Rajoelina, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Malawi",
@@ -98,5 +107,6 @@
     "idh": 0.508,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Lazarus Chakwera, Président"
+    "continent": "Afrique"
   }
 ]
