@@ -1,0 +1,73 @@
+[
+  {
+    "name": "São Tomé-et-Príncipe",
+    "flag": "https://flagcdn.com/st.svg",
+    "capital": "São Tomé",
+    "population": 230000,
+    "currency": "Dobra (STN)",
+    "idh": 0.618,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Carlos Vila Nova, Président"
+  },
+  {
+    "name": "Sénégal",
+    "flag": "https://flagcdn.com/sn.svg",
+    "capital": "Dakar",
+    "population": 18000000,
+    "currency": "Franc CFA (XOF)",
+    "idh": 0.512,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Bassirou Diomaye Faye, Président"
+  },
+  {
+    "name": "Seychelles",
+    "flag": "https://flagcdn.com/sc.svg",
+    "capital": "Victoria",
+    "population": 100000,
+    "currency": "Roupie seychelloise (SCR)",
+    "idh": 0.796,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Wavel Ramkalawan, Président"
+  },
+  {
+    "name": "Sierra Leone",
+    "flag": "https://flagcdn.com/sl.svg",
+    "capital": "Freetown",
+    "population": 8600000,
+    "currency": "Leone (SLE)",
+    "idh": 0.452,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Julius Maada Bio, Président"
+  },
+  {
+    "name": "Somalie",
+    "flag": "https://flagcdn.com/so.svg",
+    "capital": "Mogadiscio",
+    "population": 18000000,
+    "currency": "Shilling somalien (SOS)",
+    "idh": 0.380,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Hassan Sheikh Mohamud, Président"
+  },
+  {
+    "name": "Soudan",
+    "flag": "https://flagcdn.com/sd.svg",
+    "capital": "Khartoum",
+    "population": 46000000,
+    "currency": "Livre soudanaise (SDG)",
+    "idh": 0.510,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Abdel Fattah al-Burhan, Président du Conseil souverain"
+  },
+  {
+    "name": "Soudan du Sud",
+    "flag": "https://flagcdn.com/ss.svg",
+    "capital": "Djouba",
+    "population": 11000000,
+    "currency": "Livre sud-soudanaise (SSP)",
+    "idh": 0.385,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Salva Kiir Mayardit, Président"
+  },
+  {
+    "name": "Tanzanie
