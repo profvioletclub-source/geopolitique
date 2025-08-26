@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Ghana",
+    "flag": "https://flagcdn.com/gh.svg",
+    "capital": "Accra",
+    "population": 34000000,
+    "currency": "Cedi ghanéen (GHS)",
+    "idh": 0.632,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Nana Akufo-Addo, Président"
+  },
+  {
+    "name": "Guinée",
+    "flag": "https://flagcdn.com/gn.svg",
+    "capital": "Conakry",
+    "population": 14000000,
+    "currency": "Franc guinéen (GNF)",
+    "idh": 0.465,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Mamadi Doumbouya, Président"
+  },
+  {
+    "name": "Guinée-Bissau",
+    "flag": "https://flagcdn.com/gw.svg",
+    "capital": "Bissau",
+    "population": 2100000,
+    "currency": "Franc CFA (XOF)",
+    "idh": 0.480,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Umaro Sissoco Embaló, Président"
+  },
+  {
+    "name": "Guinée équatoriale",
+    "flag": "https://flagcdn.com/gq.svg",
+    "capital": "Malabo",
+    "population": 1600000,
+    "currency": "Franc CFA (XAF)",
+    "idh": 0.592,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Teodoro Obiang Nguema Mbasogo, Président"
+  },
+  {
+    "name": "Kenya",
+    "flag": "https://flagcdn.com/ke.svg",
+    "capital": "Nairobi",
+    "population": 55000000,
+    "currency": "Shilling kényan (KES)",
+    "idh": 0.575,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "William Ruto, Président"
+  },
+  {
+    "name": "Lesotho",
+    "flag": "https://flagcdn.com/ls.svg",
+    "capital": "Maseru",
+    "population": 2300000,
+    "currency": "Loti (LSL)",
+    "idh": 0.527,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Letsie III, Roi"
+  },
+  {
+    "name": "Libéria",
+    "flag": "https://flagcdn.com/lr.svg",
+    "capital": "Monrovia",
+    "population": 5300000,
+    "currency": "Dollar libérien (LRD)",
+    "idh": 0.481,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Joseph Boakai, Président"
+  },
+  {
+    "name": "Libye",
+    "flag": "https://flagcdn.com/ly.svg",
+    "capital": "Tripoli",
+    "population": 7000000,
+    "currency": "Dinar libyen (LYD)",
+    "idh": 0.718,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Mohamed al-Menfi, Président du Conseil présidentiel"
+  },
+  {
+    "name": "Madagascar",
+    "flag": "https://flagcdn.com/mg.svg",
+    "capital": "Antananarivo",
+    "population": 30000000,
+    "currency": "Ariary malgache (MGA)",
+    "idh": 0.501,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Andry Rajoelina, Président"
+  },
+  {
+    "name": "Malawi",
+    "flag": "https://flagcdn.com/mw.svg",
+    "capital": "Lilongwe",
+    "population": 21000000,
+    "currency": "Kwacha malawite (MWK)",
+    "idh": 0.508,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Lazarus Chakwera, Président"
+  }
+]
