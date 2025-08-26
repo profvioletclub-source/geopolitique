@@ -1,2 +1,2 @@
-# geopolitique-europe
-Site affichant les données géopolitiques des pays européens 
+# geopolitique
+Site affichant les données géopolitiques des pays du monde 
