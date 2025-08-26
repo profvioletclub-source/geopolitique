@@ -8,6 +8,7 @@
     "idh": 0.740,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Kaïs Saïed, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Zambie",
@@ -18,6 +19,7 @@
     "idh": 0.601,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Hakainde Hichilema, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Zimbabwe",
@@ -28,6 +30,7 @@
     "idh": 0.571,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Emmerson Mnangagwa, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Sahara occidental",
@@ -38,6 +41,7 @@
     "idh": null,
     "organizations": ["UA"],
     "headofstate": "Brahim Ghali, Président de la RASD"
+    "continent": "Afrique"
   },
   {
     "name": "Somaliland",
@@ -48,6 +52,7 @@
     "idh": null,
     "organizations": [],
     "headofstate": "Muse Bihi Abdi, Président"
+    "continent": "Afrique"
   },
   {
   "name": "Afrique du Sud",
@@ -58,5 +63,6 @@
   "idh": 0.713,
   "organizations": ["ONU", "UA", "UNESCO"],
   "headofstate": "Cyril Ramaphosa, Président"
+  "continent": "Afrique"
   }
 ]
