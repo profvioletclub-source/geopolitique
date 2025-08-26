@@ -8,6 +8,7 @@
     "idh": 0.845,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Denise Bronzetti & Italo Righi, Capitaines-régents"
+    "continent": "Europe"
   },
   {
     "name": "Monaco",
@@ -18,6 +19,7 @@
     "idh": 0.956,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Albert II, Prince"
+    "continent": "Europe"
   },
   {
     "name": "Vatican",
@@ -28,6 +30,7 @@
     "idh": 0.960,
     "organizations": ["UNESCO"],
     "headofstate": "Léon XIV, Pape"
+    "continent": "Europe"
   },
   {
     "name": "Malte",
@@ -38,6 +41,7 @@
     "idh": 0.895,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
     "headofstate": "Myriam Spiteri Debono, Présidente"
+    "continent": "Europe"
   },
   {
     "name": "Chypre",
@@ -48,6 +52,7 @@
     "idh": 0.887,
     "organizations": ["ONU", "UE", "UNESCO"],
     "headofstate": "Níkos Christodoulídis"
+    "continent": "Europe"
   },
   {
     "name": "Arménie",
@@ -58,6 +63,7 @@
     "idh": 0.759,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Vahagn Khatchatourian, Président"
+    "continent": "Europe"
   },
   {
     "name": "Azerbaijan",
@@ -68,6 +74,7 @@
     "idh": 0.756,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Ilham Aliyev, Président"
+    "continent": "Europe"
   },
   {
     "name": "Géorgie",
@@ -78,6 +85,7 @@
     "idh": 0.812,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Mikheïl Kavelachvil, Président"
+    "continent": "Europe"
   },
   {
     "name": "Kazakhstan",
@@ -88,6 +96,7 @@
     "idh": 0.811,
     "organizations": ["ONU", "UNESCO"],
     "headofstate": "Kassym-Jomart Tokaïev, Président"
+    "continent": "Europe"
   },
   {
     "name": "Royaume-Uni",
@@ -98,5 +107,6 @@
     "idh": 0.929,
     "organizations": ["ONU", "OTAN", "UNESCO"],
     "headofstate": "Charles III, Roi"
+    "continent": "Europe"
   }
 ]
