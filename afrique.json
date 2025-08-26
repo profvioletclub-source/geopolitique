@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Algérie",
+    "flag": "https://flagcdn.com/dz.svg",
+    "capital": "Alger",
+    "population": 44700000,
+    "currency": "Dinar algérien (DZD)",
+    "idh": 0.748,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Abdelmadjid Tebboune, Président"
+  },
+  {
+    "name": "Angola",
+    "flag": "https://flagcdn.com/ao.svg",
+    "capital": "Luanda",
+    "population": 36000000,
+    "currency": "Kwanza angolais (AOA)",
+    "idh": 0.581,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "João Lourenço, Président"
+  },
+  {
+    "name": "Bénin",
+    "flag": "https://flagcdn.com/bj.svg",
+    "capital": "Porto-Novo",
+    "population": 13400000,
+    "currency": "Franc CFA (XOF)",
+    "idh": 0.545,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Patrice Talon, Président"
+  },
+  {
+    "name": "Botswana",
+    "flag": "https://flagcdn.com/bw.svg",
+    "capital": "Gaborone",
+    "population": 2600000,
+    "currency": "Pula (BWP)",
+    "idh": 0.735,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Mokgweetsi Masisi, Président"
+  },
+  {
+    "name": "Burkina Faso",
+    "flag": "https://flagcdn.com/bf.svg",
+    "capital": "Ouagadougou",
+    "population": 22600000,
+    "currency": "Franc CFA (XOF)",
+    "idh": 0.449,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Ibrahim Traoré, Président"
+  },
+  {
+    "name": "Burundi",
+    "flag": "https://flagcdn.com/bi.svg",
+    "capital": "Gitega",
+    "population": 13000000,
+    "currency": "Franc burundais (BIF)",
+    "idh": 0.426,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Évariste Ndayishimiye, Président"
+  },
+  {
+    "name": "Cameroun",
+    "flag": "https://flagcdn.com/cm.svg",
+    "capital": "Yaoundé",
+    "population": 28000000,
+    "currency": "Franc CFA (XAF)",
+    "idh": 0.563,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Paul Biya, Président"
+  },
+  {
+    "name": "Cap-Vert",
+    "flag": "https://flagcdn.com/cv.svg",
+    "capital": "Praia",
+    "population": 600000,
+    "currency": "Escudo capverdien (CVE)",
+    "idh": 0.662,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "José Maria Neves, Président"
+  },
+  {
+    "name": "République centrafricaine",
+    "flag": "https://flagcdn.com/cf.svg",
+    "capital": "Bangui",
+    "population": 5600000,
+    "currency": "Franc CFA (XAF)",
+    "idh": 0.397,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Faustin-Archange Touadéra, Président"
+  },
+  {
+    "name": "Comores",
+    "flag": "https://flagcdn.com/km.svg",
+    "capital": "Moroni",
+    "population": 850000,
+    "currency": "Franc comorien (KMF)",
+    "idh": 0.554,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Azali Assoumani, Président"
+  }
+]
