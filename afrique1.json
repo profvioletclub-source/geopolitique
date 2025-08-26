@@ -1,0 +1,102 @@
+[
+  {
+    "name": "République du Congo",
+    "flag": "https://flagcdn.com/cg.svg",
+    "capital": "Brazzaville",
+    "population": 5800000,
+    "currency": "Franc CFA (XAF)",
+    "idh": 0.574,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Denis Sassou-Nguesso, Président"
+  },
+  {
+    "name": "République démocratique du Congo",
+    "flag": "https://flagcdn.com/cd.svg",
+    "capital": "Kinshasa",
+    "population": 102000000,
+    "currency": "Franc congolais (CDF)",
+    "idh": 0.479,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Félix Tshisekedi, Président"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "flag": "https://flagcdn.com/ci.svg",
+    "capital": "Yamoussoukro",
+    "population": 29000000,
+    "currency": "Franc CFA (XOF)",
+    "idh": 0.550,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Alassane Ouattara, Président"
+  },
+  {
+    "name": "Djibouti",
+    "flag": "https://flagcdn.com/dj.svg",
+    "capital": "Djibouti",
+    "population": 1100000,
+    "currency": "Franc djiboutien (DJF)",
+    "idh": 0.549,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Ismaïl Omar Guelleh, Président"
+  },
+  {
+    "name": "Égypte",
+    "flag": "https://flagcdn.com/eg.svg",
+    "capital": "Le Caire",
+    "population": 109000000,
+    "currency": "Livre égyptienne (EGP)",
+    "idh": 0.731,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Abdel Fattah al-Sissi, Président"
+  },
+  {
+    "name": "Érythrée",
+    "flag": "https://flagcdn.com/er.svg",
+    "capital": "Asmara",
+    "population": 3600000,
+    "currency": "Nakfa (ERN)",
+    "idh": 0.459,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Isaias Afwerki, Président"
+  },
+  {
+    "name": "Eswatini",
+    "flag": "https://flagcdn.com/sz.svg",
+    "capital": "Mbabane",
+    "population": 1200000,
+    "currency": "Lilangeni (SZL)",
+    "idh": 0.611,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Mswati III, Roi"
+  },
+  {
+    "name": "Éthiopie",
+    "flag": "https://flagcdn.com/et.svg",
+    "capital": "Addis-Abeba",
+    "population": 126000000,
+    "currency": "Birr éthiopien (ETB)",
+    "idh": 0.498,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Sahle-Work Zewde, Présidente"
+  },
+  {
+    "name": "Gabon",
+    "flag": "https://flagcdn.com/ga.svg",
+    "capital": "Libreville",
+    "population": 2400000,
+    "currency": "Franc CFA (XAF)",
+    "idh": 0.703,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Brice Clotaire Oligui Nguema, Président"
+  },
+  {
+    "name": "Gambie",
+    "flag": "https://flagcdn.com/gm.svg",
+    "capital": "Banjul",
+    "population": 2700000,
+    "currency": "Dalasi (GMD)",
+    "idh": 0.496,
+    "organizations": ["ONU", "UA", "UNESCO"],
+    "headofstate": "Adama Barrow, Président"
+  }
+]
