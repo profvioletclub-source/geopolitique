@@ -47,7 +47,7 @@
     "currency": "Couronne Suèdoise (SEK)",
     "idh": 0.945,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Charles XVI Gustave, Roi"
   },
   {
     "name": "Norvège",
@@ -57,7 +57,7 @@
     "currency": "Couronne Norvégienne (NOK)",
     "idh": 0.961,
     "organizations": ["ONU", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Harald V, Roi"
   },
   {
     "name": "Suisse",
@@ -67,7 +67,7 @@
     "currency": "Franc Suisse (CHF)",
     "idh": 0.955,
     "organizations": ["ONU", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Karin Keller-Sutter, Présidente"
   },
   {
     "name": "Pologne",
@@ -77,7 +77,7 @@
     "currency": "Złoty Polonais (PLN)",
     "idh": 0.880,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Karol Nawrocky, Président"
   },
   {
     "name": "Pays-Bas",
@@ -87,7 +87,7 @@
     "currency": "Euro (€)",
     "idh": 0.944,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Guillaume-Alexandre, Roi"
   },
   {
     "name": "Belgique",
@@ -97,6 +97,6 @@
     "currency": "Euro (€)",
     "idh": 0.937,
     "organizations": ["ONU", "UE", "OTAN", "UNESCO"],
-    "headofstate": "A compléter"
+    "headofstate": "Philippe, Roi"
   }
 ]
