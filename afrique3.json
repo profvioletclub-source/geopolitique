@@ -8,6 +8,7 @@
     "idh": 0.428,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Assimi Goïta, Président de la transition"
+    "continent": "Afrique"
   },
   {
     "name": "Maroc",
@@ -18,6 +19,7 @@
     "idh": 0.683,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Mohammed VI, Roi"
+    "continent": "Afrique"
   },
   {
     "name": "Maurice",
@@ -28,6 +30,7 @@
     "idh": 0.802,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Prithvirajsing Roopun, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Mauritanie",
@@ -38,6 +41,7 @@
     "idh": 0.546,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Mohamed Ould Ghazouani, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Mozambique",
@@ -48,6 +52,7 @@
     "idh": 0.456,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Filipe Nyusi, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Namibie",
@@ -58,6 +63,7 @@
     "idh": 0.646,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Nangolo Mbumba, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Niger",
@@ -68,6 +74,7 @@
     "idh": 0.400,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Abdourahamane Tchiani, Président du CNSP"
+    "continent": "Afrique"
   },
   {
     "name": "Nigeria",
@@ -78,6 +85,7 @@
     "idh": 0.548,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Bola Ahmed Tinubu, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Ouganda",
@@ -88,6 +96,7 @@
     "idh": 0.544,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Yoweri Museveni, Président"
+    "continent": "Afrique"
   },
   {
     "name": "Rwanda",
@@ -98,5 +107,6 @@
     "idh": 0.534,
     "organizations": ["ONU", "UA", "UNESCO"],
     "headofstate": "Paul Kagame, Président"
+    "continent": "Afrique"
   }
 ]
